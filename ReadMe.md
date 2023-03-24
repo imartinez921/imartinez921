@@ -1,7 +1,7 @@
 <!-- 
 ### [![Typing SVG] -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez+PharmD+and+Full+Stack+Web+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez" />
 
 
 A little about me :innocent: : 
