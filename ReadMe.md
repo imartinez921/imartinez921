@@ -1,16 +1,16 @@
 <!-- 
 ### [![Typing SVG] -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez;Full+Stack+Web+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez+PharmD+and+Full+Stack+Web+Developer" />
 
 
 A little about me :innocent: : 
-- 🎓 I am a Full Stack Software Engineer 
+- 🎓 I am a PharmD-turned-Full Stack Software Engineer 
 - 💻 I'm currently open for work
-- 🔭 I’m currently working on website clones
+- 🔭 I’m currently working on my Spotify website clone
 - 🌱 I’m currently learning DS & A
 - 👯 I’m looking to collaborate on full-stack projects
-- 📫 How to reach me: Email: imartinez921@gmail.com 📫 
+📫 How to reach me: Email: imartinez921@gmail.com 📫 
 
 
 Technologies Used:
@@ -21,7 +21,6 @@ Technologies Used:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -34,10 +33,8 @@ Technologies Used:
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imartinez921&theme=blue-green" />
