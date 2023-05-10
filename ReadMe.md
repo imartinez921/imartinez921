@@ -3,18 +3,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez~" />
 
-
-A little about me :innocent: : 
-- 🎓 I am a PharmD-turned-SWE 
+### A little about me :innocent: : 
+- 🎓 I am a PharmD-turned-SWE (💊 :fast_forward: ⌨️)
 - 💻 I'm currently open for work
-- 🔭 I’m currently working on my Spotify website clone
+- :star2: I’m currently working on my Spotify website clone
 - 🌱 I’m currently learning React Native on the side
 - 👯 I’m looking to collaborate on full-stack projects
 - When I'm not coding I'm dancing 💃🏻
-- 📫 How to reach me: Email: imartinez921@gmail.com 📫 
 
 
-Technologies Used:
+### 💻 Technologies Used:
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -37,7 +35,7 @@ Technologies Used:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-### :e-mail: Contact Me
+### :e-mail: Contact Me: imartinez921@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imartinez921@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenemartinez921/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/imartinez921/)
