@@ -5,10 +5,10 @@
 
 
 A little about me :innocent: : 
-- 🎓 I am a PharmD-turned-Full Stack Software Engineer 
+- 🎓 I am a PharmD-turned-SWE 
 - 💻 I'm currently open for work
 - 🔭 I’m currently working on my Spotify website clone
-- 🌱 I’m currently learning DS & A
+- 🌱 I’m currently learning React Native on the side
 - 👯 I’m looking to collaborate on full-stack projects
 📫 How to reach me: Email: imartinez921@gmail.com 📫 
 
