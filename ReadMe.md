@@ -10,7 +10,8 @@ A little about me :innocent: :
 - 🔭 I’m currently working on my Spotify website clone
 - 🌱 I’m currently learning React Native on the side
 - 👯 I’m looking to collaborate on full-stack projects
-📫 How to reach me: Email: imartinez921@gmail.com 📫 
+- When I'm not coding I'm dancing 💃🏻
+- 📫 How to reach me: Email: imartinez921@gmail.com 📫 
 
 
 Technologies Used:
@@ -35,10 +36,6 @@ Technologies Used:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-### :gear: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imartinez921&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api?username=imartinez921&theme=blue-green" />
 
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imartinez921@gmail.com)
