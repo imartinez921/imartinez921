@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez~" />
 
-### A little about me :innocent: : 
+### A little about me :relaxed: : 
 - 🎓 I am a PharmD-turned-SWE. (💊 :fast_forward: ⌨️)
 - 💻 I'm currently open for work.
 - :star2: I’m currently working on my Spotify website clone.
