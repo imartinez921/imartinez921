@@ -7,7 +7,7 @@
 - 🎓 I am a PharmD-turned-SWE. (💊 :fast_forward: ⌨️)
 - 💻 I'm currently open for work.
 - :star2: I’m currently working on my Spotify website clone.
-- 🌱 I’m currently learning React Native on the side.
+- 🌱 I’m currently learning Python on the side.
 - 👯 I’m looking to collaborate on full-stack projects.
 - When I'm not coding, I'm meditating :cyclone: or dancing 💃🏻.
 
