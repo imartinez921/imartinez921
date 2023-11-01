@@ -14,7 +14,7 @@ _**Currently** – I am upgrading my Spotify desktop clone [Versify](https://git
 
 _**Most recently** – in October 2023, I finished my first Hackathon submission, [SALE-E](https://sale-e-w-supabase.vercel.app/). [(Demo video here)](https://vimeo.com/875813744?share=copy)_
 
-_**My next goal is** – to master Python for my upcoming interviews and collaborate on more full-stack projects.... So please reach out to me!_
+_**My next goal is** – to master Python for my upcoming interviews and to collaborate on more full-stack projects.... So please reach out to me!_
 
 ### :e-mail: Contact Me: imartinez921@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imartinez921@gmail.com)
