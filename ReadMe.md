@@ -1,39 +1,20 @@
 <!-- 
 ### [![Typing SVG] -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Irene+D.+Martinez~" />
+<!-- 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+stopping+by~" /> -->
 
-### A little about me :relaxed: : 
-- 🎓 I am a PharmD-turned-SWE. (💊 :fast_forward: ⌨️)
-- 💻 I'm currently open for work.
-- :star2: I’m currently working on my Spotify website clone.
-- 🌱 I’m currently learning Python on the side.
-- 👯 I’m looking to collaborate on full-stack projects.
-- When I'm not coding, I'm meditating :cyclone: or dancing 💃🏻.
+*Thanks for stopping by! My garden is still growing, but it's nice to meet you~*
 
+__I am a PharmD turned SWE.__
 
-### 💻 Technologies Used:
+As I'm just starting out, I am open for any work or learning opportunities that will help me become a better engineer.... Ultimately, I see myself using my skills and dedication to make life easier and more fulfilling for others, whether that is through biotech, education, or climate change – or whether those "others" are also healthcare providers or other engineers.
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+_**Currently** – I am upgrading my Spotify desktop clone [Versify](https://github.com/imartinez921/versify_full-stack) to a newer tech stack._
+
+_**Most recently** – in October 2023, I finished my first Hackathon submission, [SALE-E](https://sale-e-w-supabase.vercel.app/). [(Demo video here)](https://vimeo.com/875813744?share=copy)_
+
+_**My next goal is** – to master Python for my upcoming interviews and collaborate on more full-stack projects.... So please reach out to me!_
 
 ### :e-mail: Contact Me: imartinez921@gmail.com
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imartinez921@gmail.com)
