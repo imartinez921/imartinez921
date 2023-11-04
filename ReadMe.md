@@ -6,7 +6,7 @@
 
 *My garden is still growing, but it's so nice to meet you~*
 
-## __I am a PharmD turned SWE.__
+## __I am a PharmD turned SWE.  💊 :fast_forward: :computer:__
 
 As I'm just starting out, I am open for any work or learning opportunities that will help me become a better engineer.
 
