@@ -8,9 +8,9 @@
 
 ## __I am a PharmD turned SWE.  💊 :fast_forward: :computer:__
 
-As I'm just starting out, I am open for any work or learning opportunities that will help me become a better engineer.
+I am open for work or any opportunities that will utilize me as an engineer who helps others. To "serve those who serve others," as Simon Sinek said.
 
-Ultimately, I want to use my acquired skills and inherent dedication to make life easier and more fulfilling for others, whether that is through biotech, education, or climate change – or whether those "others" are also healthcare providers or other engineers.
+Ultimately, I want to use these acquired skills to make life easier and more fulfilling for other professionals, whether that is through healthtech / biotech, DevOps, or change – or whether those "others" are also healthcare providers or other engineers.
 
 * _**Currently** – I am upgrading my Spotify desktop clone [Versify](https://github.com/imartinez921/versify_full-stack) to a newer tech stack._
 
