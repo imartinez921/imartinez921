@@ -12,7 +12,7 @@ Ultimately, I want to use these acquired skills to make life easier and more ful
 
 * _**Currently** – I am finishing my Spotify web clone [Versify](https://github.com/imartinez921/versify_full-stack), built with PostgreSQL, Ruby on Rails, and React/Redux._
 
-* _**Most recently** – in October 2023, I finished my first hackathon submission, SALE-E, built with Next.js, Tailwind CSS, and Google AI (Vertex AI/PaLM AI API). [(Demo video here)](https://vimeo.com/875813744?share=copy)_
+* _**Most recently** – in October 2023, I finished my first hackathon submission, SALE-E, built with Next.js, Tailwind CSS, and Google AI (Vertex AI/PaLM AI API). [(Demo video here as the API hackathon access has since been revoked)](https://vimeo.com/875813744?share=copy)_
 
 * _**My next goal is** – to master Python for my upcoming interviews and to collaborate more through group projects, open-source, or volunteerwork._
 
