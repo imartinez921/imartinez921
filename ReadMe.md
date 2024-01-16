@@ -1,19 +1,16 @@
 <!-- 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+stopping+by~" /> -->
 
-*My garden is still growing, but it's so nice to meet you~*
+## PharmD-turned-SWE.  💊 :fast_forward: :computer:
+**Bootcamp graduate with 1.5 yrs experience building full-stack apps in JavaScript & Ruby.**
+I am passionate about service, self-growth, collaboration, & debugging. I use my curiosity & empathy to design products from scratch centered on the customer’s needs & perspective, and I like to work on teams & solve problems. I am looking to work for a company who can amplify my efforts in serving a mission of positive social impact.
 
-## __I am a PharmD turned SWE.  💊 :fast_forward: :computer:__
+**As Simon Sinek says, I want to "serve those who serve others."**
 
-I am open for work or any opportunities that will utilize me as an engineer who helps others –
-<br>to _"serve those who serve others,"_ as Simon Sinek said.
+_**Currently** – I am drilling data structures & algorithms problems to prep for my interviews._
 
-Ultimately, I want to use these acquired skills to make life easier and more fulfilling for other professionals, whether that is through healthtech / biotech, DevOps, or work in the non-profit sector – and whether those "others" are also fellow healthcare providers or other engineers.
+_**Most recently** – I finally finished my solo project, my Spotify web clone named [Versify](https://github.com/imartinez921/versify_full-stack), built with PostgreSQL, Ruby on Rails, and React-Redux._
 
-* _**Currently** – I am finishing my Spotify web clone [Versify](https://github.com/imartinez921/versify_full-stack), built with PostgreSQL, Ruby on Rails, and React/Redux._
-
-* _**Most recently** – in October 2023, I finished my first hackathon submission, SALE-E, built with Next.js, Tailwind CSS, and Google AI (Vertex AI/PaLM AI API). [(Demo video here as the API hackathon access has since been revoked)](https://vimeo.com/875813744?share=copy)_
-
-* _**My next goal is** – to master Python for my upcoming interviews and to collaborate more through group projects, open-source, or volunteerwork._
+_**My next goal is** – to gather more collaboration and teamwork experience developing through volunteer and open-source projects._
 
 ## You can reach me at imartinez921@gmail.com ~
