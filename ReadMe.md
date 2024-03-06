@@ -12,6 +12,9 @@ _**Currently** – I am drilling data structures & algorithms problems to prep f
 
 _**Most recently** – I finally finished my solo project, my Spotify web clone named [Versify](https://github.com/imartinez921/versify_full-stack), built with PostgreSQL, Ruby on Rails, and React-Redux._
 
-_**My next goal is** – to gather more collaboration and teamwork developing experience through volunteer and open-source projects._
+_**My next goal is** – to gather more collaboration & teamwork development experience through volunteer and open-source projects._
 
-## You can reach me at imartinez921@gmail.com ~
+<hr>
+
+## My most updated resume can always be found <a href="https://drive.google.com/file/d/1R30Fxwx8YRY5d7CdoGTXl8F5NqUzE9sT/">here</a>.
+## And you can reach me at imartinez921@gmail.com ~
